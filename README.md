@@ -14,7 +14,7 @@
 
 ---
 ### 🚀 About Me:
-- 🌱 I’m currently learning **React.js** and **Node.js**
+- 🌱 I’m currently learning **React.js** and **Django**
 - 💼 Open to freelance work or collaborating on interesting projects
 - 💬 Ask me about anything tech-related, I love helping out!
 - 📫 Reach me via: [arpan.9932176726@gmail.com](mailto:arpan.9932176726@gmail.com)
@@ -31,9 +31,16 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-REST%20API-25A0E0?logo=api&logoColor=white&style=flat-square" />
 </p>
+
 
 ---
 
@@ -57,10 +64,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/arpan-kundu-ak7691/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/ArpanKundu91">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
