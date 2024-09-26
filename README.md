@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
+  
+   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="width: 100%; max-width: 900px; height: 375px; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
 </p>
-
 
 ---
 ### 🚀 About Me:
@@ -51,14 +51,23 @@
 </p>
 
 ---
-
 ### 📈 Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-creator&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
+</p>
 
+<!-- Total Viewers Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpan-creator&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
 <p align="center">
   <i>"Let's build something amazing together!"</i>
 </p>
