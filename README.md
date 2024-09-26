@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
+   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; max-width: 900px; height: auto; max-height: 400px; object-fit: contain;" alt="Responsive GIF" />
 </p>
+
 
 ---
 ### 🚀 About Me:
