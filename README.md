@@ -57,6 +57,13 @@
 </p>
 
 ---
+### Pinned Projects
+
+[![Schedular App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical&show_owner=true)](https://github.com/Arpan-creator/Equality-Experts_024)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true)](https://github.com/Arpan-creator/IBM-Innovators_045-) .
+
+
+---
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
