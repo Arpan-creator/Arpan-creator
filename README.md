@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Open+to+Collaborations+%26+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Lifelong+Learner+%26+Problem+Solver;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,10 +18,8 @@
 - 💼 Open to freelance work or collaborating on interesting projects
 - 💬 Ask me about anything tech-related, I love helping out!
 - 📫 Reach me via: [arpan.9932176726@gmail.com](mailto:arpan.9932176726@gmail.com)
-
----
-### Visit my portfolio with light/dark mode toggles:
-[**My Portfolio**](https://your-portfolio-url.com) — Featuring a fully interactive dark/light theme toggle!
+  
+-[**My Portfolio**](https://arpan-creator.github.io/myPortfolio) 
 
 ---
 ### 🛠 Tech Stack:
@@ -59,8 +57,8 @@
 ---
 ### Pinned Projects
 
-[![Schedular App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical&show_owner=true)](https://github.com/Arpan-creator/Equality-Experts_024)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true)](https://github.com/Arpan-creator/IBM-Innovators_045-) .
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=myPortfolio&theme=dark&show_owner=true)](https://github.com/Arpan-creator/myPortfolio) .
+[![Learner Hub](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true)](https://github.com/Arpan-creator/IBM-Innovators_045-) .
 
 
 ---
