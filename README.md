@@ -57,8 +57,10 @@
 ---
 ### Pinned Projects
 
-[![Scheduler App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=dark&show_owner=true)](https://github.com/Arpan-creator/Equality-Experts_024) .
-[![Learner Hub](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true)](https://github.com/Arpan-creator/IBM-Innovators_045-) .
+[![Scheduler App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=dark&show_owner=true&v=1)](https://github.com/Arpan-creator/Equality-Experts_024)
+[![Learner Hub](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true&v=1)](https://github.com/Arpan-creator/IBM-Innovators_045-)
+
+[![Health-and-Wellness-App](https://github-readme-stats.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=dark&show_owner=true&v=1)](https://github.com/sagarrathod7568/Health-and-Wellness-App)
 
 
 ---
