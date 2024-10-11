@@ -57,7 +57,7 @@
 ---
 ### Pinned Projects
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=myPortfolio&theme=dark&show_owner=true)](https://github.com/Arpan-creator/myPortfolio) .
+[![Scheduler App](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=dark&show_owner=true)](https://github.com/Arpan-creator/Equality-Experts_024) .
 [![Learner Hub](https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=dark&show_owner=true)](https://github.com/Arpan-creator/IBM-Innovators_045-) .
 
 
