@@ -14,13 +14,23 @@
 
 ---
 ### 🚀 About Me:
-- 🌱 I’m currently learning **React.js** and **Django**
 - 💼 Open to freelance work or collaborating on interesting projects
 - 💬 Ask me about anything tech-related, I love helping out!
 - 📫 Reach me via: [arpan.9932176726@gmail.com](mailto:arpan.9932176726@gmail.com)
   
 -[**My Portfolio**](https://arpan-creator.github.io/myPortfolio) 
 
+
+## 🧑‍💻 Experience
+
+**QICPIC INNOVATION PVT. LTD** — *Full Stack Developer*  
+📅 Dec 2024 – Present
+
+- Built scalable backend APIs for the CAP platform using **Node.js**, **Express.js**, and **PostgreSQL**.
+- Integrated payments, WebSocket-based real-time updates, and **Kafka** for inter-service messaging.
+- Developed dashboards (**DAP**, **Trainer Panel**) using **React.js** and **Redux**.
+- Deployed services on **AWS** and implemented secure image handling with encryption/decryption.
+- Collaborated with frontend developers, designers, and product managers to ensure seamless UX and feature delivery.
 ---
 ### 🛠 Tech Stack:
 
