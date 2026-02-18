@@ -22,6 +22,13 @@
 
 
 ## 🧑‍💻 Experience
+**Cleartrip (Flipkart)** – *Frontend Developer (UI)*
+📅 Aug 2025 – Present
+- Involved in major feature work for **real-time flight tracking**. Built scalable UI components in a short time with right test cases.
+- Led the **security enhancements** which resulted in the impact of resolving more than **50 issues** across mobile and desktop repositories by mitigating Regular Expression Denial of Service (ReDoS) vulnerabilities,
+- preventing catastrophic backtracking, securing application URLs, and ensuring encryption of sensitive data.
+- Currently part of the React Native migration team, in migrating mobile sites to RN. 
+- As part of **engineering excellence**, led the **Typescript** hygiene issues in mobile codebase with the help of **Cursor AI** to improve productivity.
 
 **QICPIC INNOVATION PVT. LTD** — *Full Stack Developer*  
 📅 Dec 2024 – Present
