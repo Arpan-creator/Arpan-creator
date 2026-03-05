@@ -3,11 +3,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Lifelong+Learner+%26+Problem+Solver;" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arpan%20Kundu&fontSize=70&theme=radical&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/developer.gif" width="600" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Frontend+at+Cleartrip+(Flipkart);Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-formats--programming-logo-coding-stack-developer-pack-design-illustrations-4573136.png" width="450" />
 </p>
 
 ---
