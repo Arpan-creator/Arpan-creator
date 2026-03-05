@@ -1,15 +1,7 @@
-<!-- Header Banner -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FF8D1A&height=220&section=header&text=Arpan%20Kundu&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>
 
 <h1 align="center">
 Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 </h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | Frontend @ Cleartrip (Flipkart)
-</h3>
 
 ---
 
