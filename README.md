@@ -76,9 +76,10 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&column=7&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&column=7&margin-w=15&no-bg=false&no-frame=false" alt="Arpan's Trophies" />
+  </a>
 </p>
-
 ---
 
 # 👀 Profile Views
