@@ -7,15 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Arpan%20Kundu&fontSize=70&theme=radical&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Frontend+at+Cleartrip+(Flipkart);" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-formats--programming-logo-coding-stack-developer-pack-design-illustrations-4573136.png" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical&show_owner=true" style="display:none" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&theme=radical" width="100%" />
 </p>
 
 ---
