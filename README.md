@@ -76,11 +76,14 @@
 
 ---
 
-# 📈 Top Languages
+## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-creator&layout=compact&theme=radical"/>
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-creator&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages"
+  />
+</p>>
 
 ---
 
