@@ -48,46 +48,39 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux&perline=6"/>
+### 🚀 Frontend & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass&perline=8" />
+  </a>
 </p>
 
-### 📱 Mobile Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react&perline=4"/>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java&perline=6"/>
+### ⚙️ Backend & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,aws,docker,kafka&perline=8" />
+  </a>
 </p>
 
 ### 🗄 Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&perline=8" />
+  </a>
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kafka&perline=5"/>
+### 🧰 Tools & Management
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode,figma&perline=8" />
+  </a>
 </p>
 
-### 🧰 Developer Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode&perline=6"/>
-</p>
-
-### 📊 Project Management
-<p align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
-</p>
-
-### 💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c&perline=6"/>
+### 📋 Project Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agile-239120?style=flat-square&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
