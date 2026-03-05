@@ -1,30 +1,29 @@
-<!-- Hero Header -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FF8D1A&height=200&section=header&text=Arpan%20Kundu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FF8D1A&height=220&section=header&text=Arpan%20Kundu&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">
-  Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
+Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Frontend @ Cleartrip (Flipkart)
+🚀 Full Stack Developer | Frontend @ Cleartrip (Flipkart)
 </h3>
 
 ---
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=FF5733&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Node+%7C+MERN+Developer;Frontend+Developer+at+Cleartrip+(Flipkart);Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer+at+Cleartrip+(Flipkart);Building+Scalable+Web+Applications;Always+Learning+New+Technologies" width="100%" />
 </p>
 
 ---
 
-<!-- Developer GIF -->
+<!-- Full Width Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" />
 </p>
-
 ---
 
 # 🚀 About Me
