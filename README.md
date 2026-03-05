@@ -46,16 +46,48 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
+
+### 🚀 Frontend
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux&perline=6"/>
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react&perline=4"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java&perline=6"/>
+</p>
+
+### 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka&perline=5"/>
+</p>
+
+### 🧰 Developer Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode&perline=6"/>
+</p>
+
+### 📊 Project Management
+<p align="center">
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+</p>
+
+### 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c&perline=6"/>
 </p>
 
 ---
