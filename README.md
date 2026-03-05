@@ -88,7 +88,7 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 # 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/Arpan-creator/Equality-Experts_024">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=white" />
   </a>
   <a href="https://github.com/Arpan-creator/IBM-Innovators_045-">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=radical" />
@@ -111,11 +111,6 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
   <img src="https://streak-stats.demolab.com?user=Arpan-creator&theme=radical" />
 </p>
 
----
-# 🏆 Coding Achievements
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arpan-creator&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
 ---
 
 # 👀 Profile Views
