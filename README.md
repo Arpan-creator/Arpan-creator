@@ -80,6 +80,7 @@
 
 [![Health and Wellness App](https://github-readme-stats.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=light&show_owner=true)](https://github.com/sagarrathod7568/Health-and-Wellness-App)
 ---
+
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=monokai&row=2&column=3" alt="GitHub Trophies" />
