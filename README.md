@@ -16,19 +16,35 @@
 # 🚀 About Me
 - 💼 Open to freelance work or collaborating on interesting projects  
 - 💬 Ask me about anything tech-related, I love helping out!  
-- 📫 Reach me via: **arpan.9932176726@gmail.com** - 🌐 **Portfolio:** [arpan-creator.github.io/myPortfolio](https://arpan-creator.github.io/myPortfolio)
+- 📫 Reach me via: **arpan.9932176726@gmail.com**  
+- 🌐 **Portfolio:**  
+  [https://arpan-creator.github.io/myPortfolio](https://arpan-creator.github.io/myPortfolio)
 
 ---
 
 # 🧑‍💻 Experience
 
-### **Cleartrip (Flipkart)** — *Frontend Developer (UI)* 📅 **Aug 2025 – Present**
-- Worked on **real-time flight tracking features** and **React Native migration**.
-- Led **security enhancements**, resolving **50+ issues** and fixing **ReDoS vulnerabilities**.
+### **Cleartrip (Flipkart)** — *Frontend Developer (UI)*  
+📅 **Aug 2025 – Present**
 
-### **QICPIC INNOVATION PVT. LTD** — *Full Stack Developer* 📅 **Dec 2024 – Present**
-- Built scalable APIs using **Node.js, Express, and PostgreSQL**.
-- Integrated **payment systems**, **WebSockets**, and **Kafka messaging**.
+- Worked on **real-time flight tracking features** with scalable UI components and proper test coverage.
+- Led **security enhancements**, resolving **50+ issues** across mobile and desktop repositories.
+- Fixed **ReDoS vulnerabilities**, prevented catastrophic backtracking, and secured application URLs.
+- Ensured **encryption of sensitive data** across the platform.
+- Part of the **React Native migration team**, moving mobile sites to RN.
+- Led **TypeScript hygiene improvements** in the mobile codebase using **Cursor AI**.
+
+---
+
+### **QICPIC INNOVATION PVT. LTD** — *Full Stack Developer*  
+📅 **Dec 2024 – Present**
+
+- Built scalable backend APIs using **Node.js, Express.js, and PostgreSQL**.
+- Integrated **payment systems**, **WebSocket real-time updates**, and **Kafka messaging**.
+- Developed dashboards (**DAP**, **Trainer Panel**) using **React.js** and **Redux**.
+- Deployed services on **AWS**.
+- Implemented **secure image encryption/decryption systems**.
+- Collaborated closely with product, design, and frontend teams for seamless UX delivery.
 
 ---
 
