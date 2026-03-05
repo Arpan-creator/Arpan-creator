@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical&show_owner=true" style="display:none" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&theme=radical" width="100%" />
+  <img src="https://my-readme-stats.vercel.app/api/card?title=Full%20Stack%20Development&text=Building%20Scalable%20Applications&theme=radical&width=800&height=200" width="100%" />
 </p>
 
 ---
