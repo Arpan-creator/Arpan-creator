@@ -85,20 +85,20 @@
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/Arpan-creator/Equality-Experts_024">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=Equality-Experts_024&theme=radical&v=1"/>
 </a>
 
-<a href="https://github.com/Arpan-creator/IBM-Innovators_045">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045&theme=radical"/>
+<a href="https://github.com/Arpan-creator/IBM-Innovators_045-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpan-creator&repo=IBM-Innovators_045-&theme=radical&v=1"/>
 </a>
 
 <a href="https://github.com/sagarrathod7568/Health-and-Wellness-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=radical&v=1"/>
 </a>
 
 </p>
