@@ -7,8 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="375" height="700"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="375"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Arpan%20Kundu&fontSize=70&theme=radical&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Frontend+at+Cleartrip+(Flipkart);" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-formats--programming-logo-coding-stack-developer-pack-design-illustrations-4573136.png" width="450" />
 </p>
 
 ---
