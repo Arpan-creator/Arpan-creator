@@ -5,16 +5,9 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer+at+Cleartrip+(Flipkart);Building+Scalable+Web+Applications;Always+Learning+New+Technologies" width="100%" />
-</p>
-
----
-
 <!-- Full Width Developer GIF -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" height="375" />
 </p>
 ---
 
