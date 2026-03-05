@@ -1,20 +1,29 @@
+<!-- Hero Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FF8D1A&height=200&section=header&text=Arpan%20Kundu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">
-  Hi there! 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
+  Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 </h1>
 
+<h3 align="center">
+  🚀 Full Stack Developer | Frontend @ Cleartrip (Flipkart)
+</h3>
+
+---
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arpan%20Kundu&fontSize=70&theme=radical&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=FF5733&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+Node+%7C+MERN+Developer;Frontend+Developer+at+Cleartrip+(Flipkart);Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Frontend+at+Cleartrip+(Flipkart);Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" width=100%/>
-  </a>
-</p>
+---
 
-<!-- <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-formats--programming-logo-coding-stack-developer-pack-design-illustrations-4573136.png" width="450" />
-</p> -->
+<!-- Developer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
