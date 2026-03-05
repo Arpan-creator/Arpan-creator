@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://my-readme-stats.vercel.app/api/card?title=Full%20Stack%20Development&text=Building%20Scalable%20Applications&theme=radical&width=800&height=200" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/developer.gif" width="600" />
 </p>
 
 ---
