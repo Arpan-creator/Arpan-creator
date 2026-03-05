@@ -76,9 +76,23 @@
 
 ---
 
-## 📈 Top Languages
+## 📊 My GitHub Statistics
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-creator&show_icons=true&theme=radical)](https://github.com/Arpan-creator/github-readme-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arpan-creator&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Arpan's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arpan-creator&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Arpan's Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&no-frame=false&margin-w=15&margin-h=15&column=7" alt="Arpan's Trophies" />
+  </a>
+</p>
+
+---
 
 ---
 
