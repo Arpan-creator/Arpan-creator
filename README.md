@@ -112,11 +112,10 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 </p>
 
 ---
-
 # 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&column=7&margin-w=15&no-bg=false&no-frame=false" alt="Arpan's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Arpan's Trophies" />
   </a>
 </p>
 ---
