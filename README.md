@@ -112,11 +112,9 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 </p>
 
 ---
-# 🏆 GitHub Trophies
+# 🏆 Coding Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arpan-creator&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Arpan's Trophies" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Arpan-creator&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 ---
 
