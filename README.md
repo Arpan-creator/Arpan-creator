@@ -98,6 +98,8 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
   <a href="https://github.com/sagarrathod7568/Health-and-Wellness-App">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sagarrathod7568&repo=Health-and-Wellness-App&theme=white" />
   </a>
+</p>
+<p>
    <a href="https://github.com/Arpan-creator/GeminiShow">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Arpan-creator&repo=GeminiShow&theme=white" />
   </a>
