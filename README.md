@@ -35,7 +35,7 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 ---
 
 ### **QICPIC INNOVATION PVT. LTD** — *Full Stack Developer*  
-📅 **Dec 2024 – Present**
+📅 **Dec 2024 – July 2025**
 
 - Built scalable backend APIs using **Node.js, Express.js, and PostgreSQL**.
 - Integrated **payment systems**, **WebSocket real-time updates**, and **Kafka messaging**.
