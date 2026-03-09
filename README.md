@@ -12,11 +12,21 @@ Hi 👋 I'm <span style="color:#FF5733;">Arpan Kundu</span>
 ---
 
 # 🚀 About Me
-- 💼 Open to freelance work or collaborating on interesting projects  
-- 💬 Ask me about anything tech-related, I love helping out!  
-- 📫 Reach me via: **arpan.9932176726@gmail.com**  
-- 🌐 **Portfolio:**  
-  [https://arpan-creator.github.io/myPortfolio](https://arpan-creator.github.io/myPortfolio)
+
+Hi, I'm **Arpan Kundu** 👋  
+Frontend Developer with **1.3+ years of experience** building scalable and user-centric web applications.
+
+- 💼 Currently working as a **Frontend Developer at Cleartrip (Flipkart)**  
+- ⚛️ Experienced in **React, TypeScript, JavaScript, React Native, Node.js**
+- 🗄️ Familiar with **PostgreSQL, MySQL**
+- 🧩 Passionate about building **high-performance UI, scalable frontend architecture, and great user experiences**
+- 🚀 Currently exploring **Full Stack Development and advanced React patterns**
+- 🤝 Open to **freelance work, collaborations, and exciting tech opportunities**
+- 💬 Ask me about **React, Frontend Development, JavaScript, UI performance**
+- 📫 Reach me at: **arpan.9932176726@gmail.com**
+
+🌐 **Portfolio:**  
+[https://arpan-creator.github.io/myPortfolio](https://arpan-creator.github.io/myPortfolio)
 
 ---
 
